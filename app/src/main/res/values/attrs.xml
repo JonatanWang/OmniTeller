@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="ResultView">
+        <attr name="topText" format="string" />
+        <attr name="botText" format="string" />
+        <attr name="android:ems" />
+    </declare-styleable>
+</resources>
