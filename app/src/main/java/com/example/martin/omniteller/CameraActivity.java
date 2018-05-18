@@ -14,9 +14,6 @@ import com.example.martin.omniteller.Views.CameraPreview;
 import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 
-/**
- * Created by Martin on 2017-12-27.
- */
 
 public class CameraActivity implements android.hardware.Camera.PreviewCallback {
     private float time;

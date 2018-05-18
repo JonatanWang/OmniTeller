@@ -1,8 +1,5 @@
 package com.example.martin.omniteller.Models;
 
-/**
- * Created by Martin on 2017-12-17.
- */
 
 public class Recognition {
 

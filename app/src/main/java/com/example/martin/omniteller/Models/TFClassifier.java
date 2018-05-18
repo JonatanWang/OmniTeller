@@ -14,9 +14,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
 
-/**
- * Created by Martin on 2017-12-14.
- */
 
 public class TFClassifier {
 
